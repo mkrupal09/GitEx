@@ -26,6 +26,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Feature1")
                     Greeting("Feature1.1")
                     Greeting("Feature1.2")
+                    Greeting("Feature2")
                 }
             }
         }
